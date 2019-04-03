@@ -4,6 +4,6 @@
 
 Try out git and all that
 
-**This is bold** __ This is bold__
+**This is bold** 
 
 _This is italic_ *This is italic*
