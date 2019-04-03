@@ -8,4 +8,4 @@ Try out git and all that
 
 _This is italic_ 
 
-- this is bullet points
+- this is a bullet point
